@@ -1,0 +1,1 @@
+Utilizar essa pasta para armazenar os documentos gerados em demandas específicas, por exemplo, análise funcional, análise técnica, roteiros de testes.
